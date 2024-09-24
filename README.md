@@ -55,7 +55,7 @@ This folder contains the implementation of a **console-based application** that 
 
 ## Requirements for Running the Application
 To run the Java code:
-1. Clone the repository: `git clone [repository link]`
+1. Clone the repository
 2. Navigate to the desired folder (Exercise 1 or 2).
 3. Compile and run the Java code using the command:
    ```bash
